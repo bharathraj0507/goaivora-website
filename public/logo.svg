@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" aria-label="GoAivora logo mark">
+  <defs>
+    <linearGradient id="brandGradient" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+  <polygon points="60,7 113,96 7,96" fill="url(#brandGradient)"/>
+  <polygon points="60,43 81,79 39,79" fill="#05070A"/>
+  <polygon points="73,62 96,62 113,96 60,96" fill="url(#brandGradient)"/>
+</svg>

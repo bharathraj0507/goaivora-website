@@ -4,6 +4,8 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://goaivora.com'),
+  
   title: {
     default: 'GoAivora — Modernize Your Analytics. Migrate to Microsoft Fabric.',
     template: '%s | GoAivora',
